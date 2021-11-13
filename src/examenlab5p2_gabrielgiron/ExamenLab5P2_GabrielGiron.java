@@ -15,9 +15,9 @@ public class ExamenLab5P2_GabrielGiron {
      * @param args the command line arguments
      */
     public static void main(String[] args) 
-    {
+    {       
         Ventana V = new Ventana();
-        V.setVisible(true);
+        V.StartPanel();
     }
     
 }
